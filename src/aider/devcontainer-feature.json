@@ -1,6 +1,6 @@
 {
     "id": "aider",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "name": "Aider (via pipx)",
     "documentationURL": "https://aider.chat/docs/install.html",
     "description": "Aider is an AI pair programming tool in your terminal.",
