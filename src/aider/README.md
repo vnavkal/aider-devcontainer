@@ -1,3 +1,4 @@
+
 # Aider (via pipx) (aider)
 
 Aider is an AI pair programming tool in your terminal.
@@ -6,7 +7,7 @@ Aider is an AI pair programming tool in your terminal.
 
 ```json
 "features": {
-    "ghcr.io/devcontainers-extra/features/aider:1": {}
+    "ghcr.io/vnavkal/aider-devcontainer/aider:1": {}
 }
 ```
 
@@ -16,6 +17,8 @@ Aider is an AI pair programming tool in your terminal.
 |-----|-----|-----|-----|
 | version | Select the version to install. | string | latest |
 
+
+
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](devcontainer-feature.json). Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/vnavkal/aider-devcontainer/blob/main/src/aider/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
