@@ -15,7 +15,6 @@
         }
     },
     "installsAfter": [
-        "ghcr.io/devcontainers-extra/features/pipx-package",
-        "ghcr.io/devcontainers/features/python"
+        "ghcr.io/devcontainers-extra/features/pipx-package"
     ]
 }
